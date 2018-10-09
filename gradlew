@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#admin!=user
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
